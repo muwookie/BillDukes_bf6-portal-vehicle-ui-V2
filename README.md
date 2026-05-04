@@ -20,7 +20,8 @@ dist/                       Pre-built bundle ready to upload to Portal
 2. Copy the entire file contents.
 3. Paste into the **Script** slot of your BF6 Portal experience in the
    Rules Editor.
-4. Save & launch.
+4. Generate the strings.json from the script.
+5. Save & launch.
 
 ## Rebuild from source
 
