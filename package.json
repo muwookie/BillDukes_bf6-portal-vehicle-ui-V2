@@ -1,0 +1,11 @@
+{
+  "name": "billdukes-bf6-portal-vehicle-ui-v2",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Vehicle deploy UI module for Battlefield 6 Portal experiences.",
+  "scripts": {
+    "bundle": "node ./scripts/bundle-vehicle-ui-universal.js",
+    "bundle:vehicle-ui": "node ./scripts/bundle-vehicle-ui-universal.js"
+  },
+  "license": "MIT"
+}

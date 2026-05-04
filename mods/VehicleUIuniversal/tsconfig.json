@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "none",
+    "lib": ["ES2020", "DOM"],
+    "strict": false,
+    "noEmit": true,
+    "noImplicitAny": false,
+    "skipLibCheck": true,
+    "moduleResolution": "node",
+    "allowJs": false,
+    "typeRoots": ["../../code/types"]
+  },
+  "include": [
+    "config/**/*.ts",
+    "lib/**/*.ts",
+    "modules/**/*.ts",
+    "main.script.ts"
+  ]
+}
